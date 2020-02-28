@@ -1,0 +1,9 @@
+﻿  Segment.cpp
+  Tetrahedron.cpp
+c:\users\warni\source\repos\projectvectori\projectvectori\tetrahedron.cpp(98): warning C4805: '==': unsafe mix of type 'bool' and type 'double' in operation
+  main.cpp
+c:\users\warni\source\repos\projectvectori\projectvectori\triangle.h(8): warning C4584: 'Triangle': base-class 'Point' is already a base-class of 'Vector'
+  c:\users\warni\source\repos\projectvectori\projectvectori\point.h(3): note: see declaration of 'Point'
+  c:\users\warni\source\repos\projectvectori\projectvectori\vector.h(5): note: see declaration of 'Vector'
+  Generating Code...
+  ProjectVectori.vcxproj -> C:\Users\warni\source\repos\ProjectVectori\Debug\ProjectVectori.exe
